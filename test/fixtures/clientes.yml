@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  valor_look: 9.99
+  valor_video: 9.99
+  comissionavel: false
+  obs: MyText
+
+two:
+  nome: MyString
+  valor_look: 9.99
+  valor_video: 9.99
+  comissionavel: false
+  obs: MyText
