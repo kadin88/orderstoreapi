@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cliente: one
+  pago: false
+  data_servico: 2023-09-28
+  data_pagamento: 2023-09-28
+  tipo: 1
+  qt_looks: 1
+  qt_videos: 1
+  valor_sessao: 9.99
+  valor_extra: 9.99
+  valor_total: 9.99
+  comissao: 9.99
+  desconto: 9.99
+  obs: MyString
+
+two:
+  cliente: two
+  pago: false
+  data_servico: 2023-09-28
+  data_pagamento: 2023-09-28
+  tipo: 1
+  qt_looks: 1
+  qt_videos: 1
+  valor_sessao: 9.99
+  valor_extra: 9.99
+  valor_total: 9.99
+  comissao: 9.99
+  desconto: 9.99
+  obs: MyString
